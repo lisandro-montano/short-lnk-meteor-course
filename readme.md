@@ -1,1 +1,5 @@
-Readme for short lnk
+Short Lnk
+
+Author: Luis Montano
+
+Application to Shorten LinksList
