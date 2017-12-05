@@ -1,5 +1,5 @@
-#Short Lnk
+# Short Lnk
 
-##Author: Luis Montano
+## Author: Luis Montano
 
 Application to Shorten Links built in Meteor and React.
