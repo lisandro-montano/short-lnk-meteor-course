@@ -2,4 +2,4 @@
 
 ## Author: Luis Montano
 
-Application to Shorten Links built in Meteor and React.
+Application to Shorten Links built in Meteor and React for my new course.
